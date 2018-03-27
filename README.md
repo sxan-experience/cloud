@@ -5,12 +5,19 @@ This repo contains functions for Firebase endpoints. Includes Slack interactions
 ## Objectives
 
 * CRUDr
+
 ** Create content
+
 ** Read content
+
 ** Update (append) data
+
 ** Delete (obfuscate) data
+
 ** relate data
+
 * SXAN Client Protocol
+
 * Offline considerations
 
 
